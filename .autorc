@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "git-tag",
+    [ "auto-plugin-webex", {
+        "roomId": "${WEBEX_ROOM_ID}"
+      } 
+  ]
+  ],
+  "owner": "pfafffabian-ifx",
+  "repo": "auto-plugin-webex-test",
+  "name": "Fabian Pfaff",
+  "email": "fabian.pfaff@infineon.com"
+}
