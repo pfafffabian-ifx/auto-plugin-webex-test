@@ -1,3 +1,19 @@
+# v4.0.0 (Wed Nov 26 2025)
+
+#### 💥 Breaking Change
+
+- test [#7](https://github.com/pfafffabian-ifx/auto-plugin-webex-test/pull/7) ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+#### 🐛 Bug Fix
+
+- test [#6](https://github.com/pfafffabian-ifx/auto-plugin-webex-test/pull/6) ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+#### Authors: 1
+
+- Fabian Pfaff ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+---
+
 # v3.0.0 (Wed Nov 26 2025)
 
 #### 💥 Breaking Change
