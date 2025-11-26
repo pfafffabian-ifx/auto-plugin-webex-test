@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@auto-it/git-tag": "^11.3.6",
-    "auto-plugin-webex": "^1.0.1"
+    "auto-plugin-webex": "^1.1.0"
   },
   "scripts": {
     "start": "node index.js"
