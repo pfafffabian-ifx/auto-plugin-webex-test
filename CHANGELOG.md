@@ -1,0 +1,13 @@
+# v1.0.0 (Wed Nov 26 2025)
+
+#### 💥 Breaking Change
+
+- feat: init project [#1](https://github.com/pfafffabian-ifx/auto-plugin-webex-test/pull/1) ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+#### ⚠️ Pushed to `main`
+
+- first commit ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+#### Authors: 1
+
+- Fabian Pfaff ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
