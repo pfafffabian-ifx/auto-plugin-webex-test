@@ -1,3 +1,15 @@
+# v4.0.1 (Wed Nov 26 2025)
+
+#### 🐛 Bug Fix
+
+- add threshold [#8](https://github.com/pfafffabian-ifx/auto-plugin-webex-test/pull/8) ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+#### Authors: 1
+
+- Fabian Pfaff ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+---
+
 # v4.0.0 (Wed Nov 26 2025)
 
 #### 💥 Breaking Change
