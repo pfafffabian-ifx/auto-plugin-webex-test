@@ -3,7 +3,7 @@
     "git-tag",
     [ "auto-plugin-webex", {
         "roomId": "${WEBEX_ROOM_ID}",
-        "threshold": "minor"
+        "threshold": "patch"
       } 
   ]
   ],
