@@ -1,3 +1,15 @@
+# v41.0.7 (Tue Feb 17 2026)
+
+#### ⚠️ Pushed to `main`
+
+- disable monorepo changelog ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+#### Authors: 1
+
+- Fabian Pfaff ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+---
+
 # v41.0.6 (Tue Feb 17 2026)
 
 #### 🐛 Bug Fix
