@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfafffabian-ifx/auto-plugin-webex-test"
+  },
   "publishConfig": {
     "access": "public"
   },
