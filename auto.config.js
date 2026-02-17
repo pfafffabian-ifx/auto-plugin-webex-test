@@ -1,6 +1,7 @@
 const npmOptions = {
 	exact: true,
 	subPackageChangelogs: false,
+  monorepoChangelog: false
 };
 
 module.exports = function rc() {
