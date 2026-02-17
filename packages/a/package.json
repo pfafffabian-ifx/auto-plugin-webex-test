@@ -1,0 +1,16 @@
+{
+  "name": "@pfafffabian-ifx/a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabian Pfaff",
+  "license": "ISC",
+  "packageManager": "pnpm@10.23.0",
+  "dependencies": {
+    "lerna": "^9.0.4"
+  }
+}

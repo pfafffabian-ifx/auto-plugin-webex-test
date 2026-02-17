@@ -2,26 +2,12 @@
   "name": "auto-webex-plugin-test",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private":"true",
   "dependencies": {
     "auto": "^11.3.6"
   },
   "devDependencies": {
     "@auto-it/git-tag": "^11.3.6",
     "auto-plugin-webex": "^1.1.0"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pfafffabian-ifx/auto-plugin-webex-test.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pfafffabian-ifx/auto-plugin-webex-test/issues"
-  },
-  "homepage": "https://github.com/pfafffabian-ifx/auto-plugin-webex-test#readme"
+  }
 }
