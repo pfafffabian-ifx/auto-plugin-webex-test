@@ -1,3 +1,16 @@
+# v41.0.5 (Tue Feb 17 2026)
+
+#### 🐛 Bug Fix
+
+- `@pfafffabian-ifx/a`
+  - changes [#11](https://github.com/pfafffabian-ifx/auto-plugin-webex-test/pull/11) ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+#### Authors: 1
+
+- Fabian Pfaff ([@pfafffabian-ifx](https://github.com/pfafffabian-ifx))
+
+---
+
 # v41.0.4 (Tue Feb 17 2026)
 
 #### 🐛 Bug Fix
