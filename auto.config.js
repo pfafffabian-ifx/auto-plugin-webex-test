@@ -1,6 +1,5 @@
 const npmOptions = {
 	exact: true,
-	subPackageChangelogs: false,
 };
 
 module.exports = function rc() {
